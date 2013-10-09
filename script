@@ -1,0 +1,4 @@
+if (coffee === false) 
+{
+  alert("Cannot compute");
+}
